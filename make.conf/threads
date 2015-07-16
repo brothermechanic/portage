@@ -1,2 +1,0 @@
-MAKEOPTS="-j13"
-EMERGE_DEFAULT_OPTS="--jobs=4"
