@@ -1,0 +1,11 @@
+sci-libs/hdf5 -threads
+media-gfx/blender contrib -collada -osl alembic -player game-engine freestyle nls linguas_en linguas_ru
+media-gfx/hugin sift lapack
+media-gfx/imagemagick corefonts fontconfig
+sys-devel/llvm clang
+media-libs/mlt -kde melt kdenlive
+dev-lang/python sqlite
+dev-libs/boost python
+media-libs/openimageio python
+media-libs/opencolorio python
+media-gfx/ufraw gtk

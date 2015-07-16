@@ -1,0 +1,3 @@
+#dev-vcs/subversion -kde
+#app-arch/p7zip -kde
+dev-libs/libdbusmenu gtk gtk3

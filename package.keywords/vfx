@@ -1,0 +1,14 @@
+media-gfx/blender **
+media-gfx/slowmovideo **
+media-gfx/v3d **
+media-video/smplayer **
+=media-gfx/darktable-1.5 **
+media-gfx/vlfeat **
+media-libs/openexr **
+media-libs/ilmbase **
+<media-video/mpv-9999 **
+media-libs/gegl **
+media-libs/babl **
+media-gfx/gimp **
+media-gfx/freecad **
+#media-libs/opencollada **

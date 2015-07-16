@@ -1,0 +1,12 @@
+dev-libs/libpcre pcre16
+dev-qt/qtdeclarative localstorage
+dev-qt/qtquickcontrols widgets
+dev-qt/qtwebkit gstreamer icu
+dev-util/cmake -qt4 -qt5
+dev-python/pyudev pyqt4
+media-video/smplayer -qt4 qt5
+net-p2p/transmission -qt4 qt5
+dev-qt/qtlockedfile qt5
+dev-qt/qtsingleapplication qt5
+app-office/akonadi-server -qt5
+media-libs/opencv -qt5

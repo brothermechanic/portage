@@ -1,0 +1,9 @@
+app-portage/layman subversion
+kde-base/okular djvu
+kde-base/systemsettings gtk
+app-emulation/wine -gstreamer -cups -openal -opencl -gphoto2
+app-office/wps-office corefonts
+media-video/mpv libass png X libmpv
+app-emulation/virtualbox extensions 
+media-sound/clementine lastfm
+net-print/gutenprint gtk

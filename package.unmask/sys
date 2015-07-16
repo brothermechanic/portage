@@ -1,0 +1,6 @@
+sys-devel/gcc
+dev-libs/boost
+dev-util/boost-build
+=sys-kernel/gentoo-sources-4.1*
+#=app-emulation/wine-
+#=net-misc/teamviewer-10.0.36281

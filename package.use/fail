@@ -1,0 +1,22 @@
+gnome-base/gvfs -http
+sys-libs/zlib minizip
+media-plugins/frei0r-plugins -facedetect
+net-libs/libproxy -webkit
+net-libs/glib-networking -libproxy
+net-libs/neon -libproxy
+media-libs/mesa -llvm -gallium -opencl -vdpau
+sys-apps/hwloc -opencl -cuda
+sci-libs/levmar -plasma
+media-libs/harfbuzz -graphite
+dev-libs/libxml2 icu
+sys-auth/polkit introspection
+app-crypt/heimdal -ssl
+media-libs/gexiv2 introspection
+dev-libs/elfutils static-libs
+media-libs/phonon designer
+media-video/ffmpeg -samba
+app-office/akonadi-server qt4
+dev-ruby/* ruby_targets_ruby22
+dev-ruby/rubygems ruby_targets_ruby21
+app-crypt/heimdal -threads
+app-text/tesseract -opencl

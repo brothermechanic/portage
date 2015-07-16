@@ -1,0 +1,16 @@
+#russia
+#SYNC="rsync://mirror.yandex.ru/gentoo-portage/"
+#GENTOO_MIRRORS="ftp://mirror.yandex.ru/gentoo-distfiles/"
+
+#manual overlay
+#PORTDIR_OVERLAY="/usr/local/portage"
+PORTDIR_OVERLAY="/media/var/bin/stuff"
+
+#layman
+source /var/lib/layman/make.conf
+
+PORTDIR="/var/portage"
+DISTDIR="/var/portage/distfiles"
+PKGDIR="/var/portage/packages"  
+#PORTAGE_TMPDIR=/var/tmp
+

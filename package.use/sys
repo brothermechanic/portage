@@ -1,0 +1,9 @@
+sys-boot/grub device-mapper
+media-gfx/nvidia-cg-toolkit multilib
+sys-kernel/gentoo-sources experimental
+x11-drivers/nvidia-drivers multilib gtk2 uvm
+sys-block/parted device-mapper
+dev-libs/boost static-libs
+net-fs/samba client
+sys-devel/llvm mcjit
+net-misc/teamviewer -system-wine

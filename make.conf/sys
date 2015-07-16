@@ -1,0 +1,19 @@
+FEATURES="collision-protect buildsyspkg parallel-fetch userfetch metadata-transfer preserve-libs"
+#FEATURES="parallel-fetch userfetch metadata-transfer preserve-libs"
+
+ACCEPT_KEYWORDS="~amd64"
+ACCEPT_LICENSE="*"
+ABI_X86="64 32"
+
+VIDEO_CARDS="nvidia"
+ALSA_CARDS="hda-intel"
+SUPPORT_ALSA=1
+CAMERAS="canon ptp2"
+INPUT_DEVICES="evdev synaptics"
+LINGUAS="ru en ru_RU"
+LANGUAGE="ru_RU.UTF-8"
+GRUB_PLATFORMS="efi-64"
+USE_PYTHON="2.7 3.4"
+PYTHON_TARGETS="python2_7 python3_4"
+PYTHON_COMPAT="python3_4"
+PYTHON_ABIS="2.7 3.4"
