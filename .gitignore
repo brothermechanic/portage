@@ -1,5 +1,6 @@
 LICENSE
 threads
+path
 bin
 make.profile
 postsync.d
