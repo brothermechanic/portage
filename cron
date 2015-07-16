@@ -1,0 +1,3 @@
+SHELL=/bin/bash
+MAILTO=brothermechanic@gmail.com
+0 10,17,22 * * * root /etc/portage/sync.sh
