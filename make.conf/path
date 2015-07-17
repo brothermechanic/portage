@@ -4,7 +4,7 @@
 
 #manual overlay
 #PORTDIR_OVERLAY="/usr/local/portage"
-PORTDIR_OVERLAY="/home/bm/bin/stuff"
+PORTDIR_OVERLAY="/media/var/bin/stuff/"
 
 #layman
 source /var/lib/layman/make.conf
