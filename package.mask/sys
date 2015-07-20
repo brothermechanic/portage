@@ -1,10 +1,7 @@
 #dev-util/nvidia-cuda-toolkit::gentoo
-<<<<<<< HEAD
 =sys-devel/gcc-5*
 =sys-devel/gcc-3*
 =sys-devel/gcc-2*
-=======
->>>>>>> dd972ba21e93d01953fc6494cb62e8ba6253a286
 #=x11-drivers/nvidia-drivers-35*
 sys-kernel/gentoo-sources
 #app-emulation/wine

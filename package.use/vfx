@@ -1,5 +1,5 @@
 sci-libs/hdf5 -threads
-media-gfx/blender contrib -collada -osl alembic -player game-engine freestyle nls linguas_en linguas_ru
+media-gfx/blender contrib -collada -osl alembic -player game-engine freestyle sm_30 sm_35 nls linguas_en linguas_ru
 media-gfx/hugin sift lapack
 media-gfx/imagemagick corefonts fontconfig
 sys-devel/llvm clang
