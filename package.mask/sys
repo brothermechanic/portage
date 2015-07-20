@@ -1,8 +1,8 @@
-dev-util/nvidia-cuda-toolkit::gentoo
-=sys-devel/gcc-4*
+#dev-util/nvidia-cuda-toolkit::gentoo
+=sys-devel/gcc-5*
 =sys-devel/gcc-3*
 =sys-devel/gcc-2*
 #=x11-drivers/nvidia-drivers-35*
 sys-kernel/gentoo-sources
-app-emulation/wine
+#app-emulation/wine
 #net-misc/teamviewer
