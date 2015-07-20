@@ -9,4 +9,4 @@ dev-libs/boost python
 media-libs/openimageio python
 media-libs/opencolorio python
 media-gfx/ufraw gtk
-app-office/calligra colorio -calligra_features_author -calligra_features_braindump -calligra_features_flow -calligra_features_karbon -calligra_features_kexi -calligra_features_plan calligra_features_sheets -calligra_features_stage -calligra_features_words
+app-office/calligra colorio gsl -calligra_features_author -calligra_features_braindump -calligra_features_flow -calligra_features_karbon -calligra_features_kexi -calligra_features_plan calligra_features_sheets -calligra_features_stage -calligra_features_words -calligra_features_sheets
