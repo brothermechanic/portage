@@ -12,3 +12,7 @@ media-libs/babl **
 media-gfx/gimp **
 media-gfx/freecad **
 #media-libs/opencollada **
+media-video/mpv **
+media-plugins/vapoursynth-vsimagereader **
+# required by media-plugins/vapoursynth-fft3dfilter (argument)
+=media-plugins/vapoursynth-fft3dfilter-9999 **
