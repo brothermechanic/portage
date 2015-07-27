@@ -1,6 +1,2 @@
 dev-ruby/* ruby_targets_ruby21
-<<<<<<< HEAD
 virtual/rubygems ruby_targets_ruby21 ruby_targets_ruby22
-=======
-virtual/rubygems ruby_targets_ruby22 ruby_targets_ruby21
->>>>>>> 04706dd5dbb7961219d1b2b1fa39f032134917f6

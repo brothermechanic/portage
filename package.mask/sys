@@ -4,5 +4,3 @@
 =sys-devel/gcc-2*
 #=x11-drivers/nvidia-drivers-35*
 sys-kernel/gentoo-sources
-#app-emulation/wine
-#net-misc/teamviewer

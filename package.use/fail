@@ -16,7 +16,5 @@ dev-libs/elfutils static-libs
 media-libs/phonon designer
 media-video/ffmpeg -samba
 app-office/akonadi-server qt4
-dev-ruby/* ruby_targets_ruby22
-dev-ruby/rubygems ruby_targets_ruby21
 app-crypt/heimdal -threads
 app-text/tesseract -opencl
