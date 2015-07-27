@@ -1,0 +1,2 @@
+dev-ruby/* ruby_targets_ruby21
+virtual/rubygems ruby_targets_ruby21 ruby_targets_ruby22
