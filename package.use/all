@@ -7,8 +7,6 @@ media-video/mpv libass png X libmpv
 app-emulation/virtualbox extensions 
 media-sound/clementine lastfm
 net-print/gutenprint gtk
-<<<<<<< HEAD
 net-libs/libmicrohttpd messages
-=======
 dev-libs/libdbusmenu gtk gtk3
->>>>>>> e733fbc0393cff28f599e4dc3377529c7bdbae13
+media-gfx/graphviz-2.38.0 gtk
