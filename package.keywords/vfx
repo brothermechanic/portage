@@ -11,4 +11,5 @@ media-libs/ilmbase **
 media-video/mpv **
 media-plugins/vapoursynth-vsimagereader **
 =media-plugins/vapoursynth-fft3dfilter-9999 **
+media-gfx/darktable **
 media-gfx/hugin **
