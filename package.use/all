@@ -9,4 +9,4 @@ media-sound/clementine lastfm
 net-print/gutenprint gtk
 net-libs/libmicrohttpd messages
 dev-libs/libdbusmenu gtk gtk3
-media-gfx/graphviz-2.38.0 gtk
+media-gfx/graphviz gtk
