@@ -7,9 +7,11 @@ media-gfx/vlfeat **
 media-libs/openexr **
 media-libs/ilmbase **
 <media-video/mpv-9999 **
-#media-libs/opencollada **
 media-video/mpv **
 media-plugins/vapoursynth-vsimagereader **
 =media-plugins/vapoursynth-fft3dfilter-9999 **
 media-gfx/darktable **
 media-gfx/hugin **
+media-libs/babl **
+media-libs/gegl **
+media-gfx/gimp **
