@@ -7,3 +7,4 @@ media-libs/gd fontconfig
 media-libs/libsamplerate sndfile
 media-video/xjadeo midi -lash
 media-sound/ladish lash
+media-gfx/graphviz gtk
