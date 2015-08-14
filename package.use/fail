@@ -4,7 +4,6 @@ media-plugins/frei0r-plugins -facedetect
 net-libs/libproxy -webkit
 net-libs/glib-networking -libproxy
 net-libs/neon -libproxy
-media-libs/mesa -llvm -gallium -opencl -vdpau
 sys-apps/hwloc -opencl -cuda
 sci-libs/levmar -plasma
 media-libs/harfbuzz -graphite

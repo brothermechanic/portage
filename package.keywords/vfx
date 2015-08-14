@@ -9,7 +9,9 @@ media-libs/ilmbase **
 <media-video/mpv-9999 **
 media-video/mpv **
 media-plugins/vapoursynth-vsimagereader **
-=media-plugins/vapoursynth-fft3dfilter-9999 **
+media-plugins/vapoursynth-fft3dfilter **
+media-plugins/vapoursynth-vsrawsource **
+media-plugins/vapoursynth-reduceflicker **
 media-gfx/darktable **
 media-gfx/hugin **
 media-libs/babl **
