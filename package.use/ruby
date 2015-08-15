@@ -1,3 +1,5 @@
 dev-ruby/* ruby_targets_ruby21
 virtual/rubygems ruby_targets_ruby21 ruby_targets_ruby22
 dev-ruby/test-unit ruby_targets_ruby22
+dev-ruby/minitest ruby_targets_ruby22
+

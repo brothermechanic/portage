@@ -7,3 +7,4 @@ dev-libs/boost static-libs
 net-fs/samba client
 sys-devel/llvm mcjit
 net-misc/teamviewer -system-wine
+app-portage/layman sync-plugin-portage
