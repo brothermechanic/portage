@@ -1,4 +1,3 @@
-app-portage/layman subversion
 kde-base/okular djvu
 kde-base/systemsettings gtk
 app-emulation/wine -gstreamer -cups -openal -opencl -gphoto2
