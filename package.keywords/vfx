@@ -13,3 +13,6 @@ media-plugins/vapoursynth-vsimagereader **
 =media-plugins/vapoursynth-fft3dfilter-9999 **
 media-gfx/darktable **
 media-gfx/hugin **
+media-gfx/gimp **
+media-libs/gegl **
+media-libs/babl **

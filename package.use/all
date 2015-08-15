@@ -10,3 +10,4 @@ net-print/gutenprint gtk
 net-libs/libmicrohttpd messages
 dev-libs/libdbusmenu gtk gtk3
 media-gfx/graphviz gtk
+#media-libs/libcanberra gtk3
