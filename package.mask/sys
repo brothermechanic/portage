@@ -1,2 +1,4 @@
+media-video/mpv::gentoo
 #dev-util/nvidia-cuda-toolkit::gentoo
 sys-kernel/gentoo-sources
+=dev-util/nvidia-cuda-toolkit-7.5.7*
