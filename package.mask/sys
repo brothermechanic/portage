@@ -1,7 +1,3 @@
 media-video/mpv::gentoo
 dev-util/nvidia-cuda-toolkit::gentoo
 sys-kernel/gentoo-sources
-=sys-libs/glibc-9999
-=sys-devel/gcc-9999
-=sys-devel/gcc-4*
-
