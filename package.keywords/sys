@@ -1,3 +1,4 @@
 dev-libs/boost **
 dev-util/boost-build **
-sys-libs/glibc -~amd64
+sys-libs/glibc **
+sys-devel/gcc **

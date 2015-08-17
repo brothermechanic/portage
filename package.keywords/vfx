@@ -12,8 +12,9 @@ media-plugins/vapoursynth-vsimagereader **
 media-plugins/vapoursynth-fft3dfilter **
 media-plugins/vapoursynth-vsrawsource **
 media-plugins/vapoursynth-reduceflicker **
-media-gfx/darktable **
+#media-gfx/darktable **
 media-gfx/hugin **
 media-gfx/gimp **
 media-libs/gegl **
 media-libs/babl **
+media-gfx/ngplant **
