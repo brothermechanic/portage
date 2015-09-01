@@ -3,4 +3,7 @@ media-sound/ladish **
 www-client/chromium **
 x11-themes/oxygen-gtk3 **
 media-sound/clementine **
-#media-tv/kodi **
+app-text/libwps **
+<app-office/libreoffice-5.0.9999 **
+net-print/hplip-plugin **
+net-print/foo2zjs **
