@@ -2,3 +2,6 @@ dev-libs/boost **
 dev-util/boost-build **
 =sys-devel/gcc-5* **
 =sys-libs/glibc-2.22* **
+<x11-misc/sddm-9999 **
+<sys-auth/consolekit-9999 **
+app-crypt/pinentry **

@@ -3,3 +3,5 @@ dev-util/boost-build
 =sys-kernel/gentoo-sources-4.1*
 =sys-devel/gcc-5*
 =sys-libs/glibc-2.22*
+sys-auth/consolekit
+app-crypt/pinentry
