@@ -1,5 +1,5 @@
-#FEATURES="collision-protect buildsyspkg parallel-fetch userfetch metadata-transfer preserve-libs"
-FEATURES="parallel-fetch userfetch metadata-transfer preserve-libs"
+FEATURES="collision-protect buildsyspkg parallel-fetch userfetch metadata-transfer preserve-libs"
+#FEATURES="parallel-fetch userfetch metadata-transfer preserve-libs"
 
 ACCEPT_KEYWORDS="~amd64"
 ACCEPT_LICENSE="*"

@@ -5,3 +5,5 @@ dev-util/boost-build
 =sys-libs/glibc-2.22*
 sys-auth/consolekit
 app-crypt/pinentry
+net-print/hplip-plugin
+net-print/hplip

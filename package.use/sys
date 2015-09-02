@@ -7,3 +7,4 @@ dev-libs/boost static-libs
 net-fs/samba client
 sys-devel/llvm mcjit
 app-portage/layman sync-plugin-portage subversion
+net-print/hplip scanner

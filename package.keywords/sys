@@ -5,3 +5,5 @@ dev-util/boost-build **
 <x11-misc/sddm-9999 **
 <sys-auth/consolekit-9999 **
 app-crypt/pinentry **
+net-print/hplip-plugin **
+net-print/hplip **
