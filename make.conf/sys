@@ -10,6 +10,7 @@ ALSA_CARDS="hda-intel"
 SUPPORT_ALSA=1
 CAMERAS="canon ptp2"
 INPUT_DEVICES="evdev synaptics"
+SANE_BACKENDS="hp"
 LINGUAS="ru en ru_RU"
 LANGUAGE="ru_RU.UTF-8"
 GRUB_PLATFORMS="efi-64"

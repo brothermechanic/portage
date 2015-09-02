@@ -5,3 +5,8 @@ x11-themes/oxygen-gtk3 **
 media-sound/clementine **
 app-text/libwps **
 <app-office/libreoffice-5.0.9999 **
+<<<<<<< HEAD
+=======
+net-print/hplip-plugin **
+net-print/foo2zjs **
+>>>>>>> 29b61843f68b6d4baf4ddac831a04d7606ab184a
