@@ -1,0 +1,7 @@
+kde-apps/*:5
+gnome-base/libglade
+gnome-base/gconf
+gnome-base/librsvg
+gnome-base/gsettings-desktop-schemas
+gnome-base/dconf
+gnome-base/libgnomecanvas

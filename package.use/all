@@ -8,7 +8,10 @@ net-print/gutenprint gtk
 net-libs/libmicrohttpd messages
 dev-libs/libdbusmenu gtk gtk3
 media-gfx/graphviz gtk
+<<<<<<< HEAD
 net-print/hplip scanner
 net-print/cups zeroconf
 net-print/cups-filters zeroconf
 net-dns/avahi mdnsresponder-compat
+=======
+>>>>>>> f458b852bd2f11f6cfc953b0f3cea4cb33d006fc
