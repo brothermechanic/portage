@@ -1,4 +1,7 @@
-#=kde-apps/gwenview-15.08.0
-#=kde-apps/ksnapshot-15.08.0
-#=kde-apps/libkipi-15.08.0
-kde-apps/*
+kde-apps/*:5
+gnome-base/libglade
+gnome-base/gconf
+gnome-base/librsvg
+gnome-base/gsettings-desktop-schemas
+gnome-base/dconf
+gnome-base/libgnomecanvas

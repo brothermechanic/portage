@@ -4,6 +4,5 @@ dev-util/boost-build **
 =sys-libs/glibc-2.22* **
 <x11-misc/sddm-9999 **
 <sys-auth/consolekit-9999 **
-app-crypt/pinentry **
 net-print/hplip-plugin **
 net-print/hplip **

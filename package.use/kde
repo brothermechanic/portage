@@ -10,3 +10,4 @@ kde-plasma/plasma-desktop gtk2 gtk3 legacy-systray touchpad
 app-emulation/winetricks -kde
 media-gfx/darktable -kde
 app-office/libreoffice -kde
+media-libs/mesa wayland
