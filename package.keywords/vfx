@@ -13,8 +13,8 @@ media-plugins/vapoursynth-fft3dfilter **
 media-plugins/vapoursynth-vsrawsource **
 media-plugins/vapoursynth-reduceflicker **
 media-gfx/hugin **
-media-gfx/gimp **
-media-libs/gegl **
-media-libs/babl **
+#media-gfx/gimp **
+#media-libs/gegl **
+#media-libs/babl **
 media-gfx/ngplant **
 media-gfx/freecad **
