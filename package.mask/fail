@@ -15,3 +15,4 @@ media-video/mplayer2
 =dev-qt/qtwebkit-4.10.4
 app-emulation/wine::gentoo
 dev-cpp/eigen:2
+=media-plugins/vapoursynth-ffmpegsource-9999

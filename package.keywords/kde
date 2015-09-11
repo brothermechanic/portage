@@ -1,2 +1,2 @@
 kde-apps/*:5 **
-x11-misc/sddm **
+#x11-misc/sddm **
