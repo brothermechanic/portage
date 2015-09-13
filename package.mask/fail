@@ -16,3 +16,4 @@ media-video/mplayer2
 app-emulation/wine::gentoo
 dev-cpp/eigen:2
 =media-plugins/vapoursynth-ffmpegsource-9999
+=media-libs/gegl-9999

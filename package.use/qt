@@ -11,7 +11,5 @@ dev-qt/qtsingleapplication qt5
 media-libs/opencv -qt5
 dev-libs/libdbusmenu-qt qt5
 sys-auth/polkit-qt qt5
-#media-libs/phonon -qt4
-#media-libs/phonon-gstreamer -qt4
 kde-plasma/plasma-desktop -qt4
 kde-plasma/breeze -qt4
