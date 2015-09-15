@@ -9,5 +9,3 @@ net-p2p/transmission -qt4 qt5
 dev-qt/qtlockedfile qt5
 dev-qt/qtsingleapplication qt5
 media-libs/opencv -qt5
-#dev-libs/libdbusmenu-qt qt5
-#sys-auth/polkit-qt qt5

@@ -1,4 +1,4 @@
-kde-apps/*:5
+#kde-apps/*:5
 gnome-base/libglade
 gnome-base/gconf
 gnome-base/librsvg
