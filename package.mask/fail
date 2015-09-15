@@ -17,3 +17,5 @@ app-emulation/wine::gentoo
 dev-cpp/eigen:2
 =media-plugins/vapoursynth-ffmpegsource-9999
 =media-libs/gegl-9999
+x11-libs/ganv
+media-sound/patchage::bar

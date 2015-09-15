@@ -12,3 +12,4 @@ net-print/hplip scanner
 net-print/cups zeroconf
 net-print/cups-filters zeroconf
 net-dns/avahi mdnsresponder-compat
+app-admin/conky hddtemp -imlib 
