@@ -1,14 +1,14 @@
-dev-vcs/subversion -kde
-app-text/goldendict -kde
-dev-python/PyQt4 -kde
-dev-qt/designer:4 -kde -phonon
-dev-python/pyside -phonon
-app-arch/p7zip -kde
-x11-misc/lightdm -kde gtk
+#dev-vcs/subversion -kde
+#app-text/goldendict -kde
+#dev-python/PyQt4 -kde
+#dev-qt/designer:4 -kde -phonon
+#dev-python/pyside -phonon
+#app-arch/p7zip -kde
 kde-plasma/plasma-meta gtk
 kde-plasma/plasma-desktop gtk2 gtk3 legacy-systray touchpad
-app-emulation/winetricks -kde
-media-gfx/darktable -kde
-app-office/libreoffice -kde
-app-office/libreoffice-bin -kde
-media-libs/mesa wayland
+#app-emulation/winetricks -kde
+#media-gfx/darktable -kde
+#app-office/libreoffice -kde
+#app-office/libreoffice-bin -kde
+#kde-plasma/plasma-desktop -qt4
+#kde-plasma/breeze -qt4
