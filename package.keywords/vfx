@@ -2,15 +2,9 @@ media-gfx/blender **
 media-gfx/slowmovideo **
 media-gfx/v3d **
 media-video/smplayer **
-=media-gfx/darktable-1.5 **
-media-gfx/vlfeat **
 media-libs/openexr **
 media-libs/ilmbase **
 <media-video/mpv-9999 **
 media-video/mpv **
-media-gfx/hugin **
-media-gfx/gimp **
-media-libs/gegl **
-media-libs/babl **
 media-gfx/ngplant **
 */*::vapoursynth **

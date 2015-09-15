@@ -3,8 +3,7 @@ media-gfx/nvidia-cg-toolkit multilib
 sys-kernel/gentoo-sources experimental
 x11-drivers/nvidia-drivers multilib gtk2 uvm
 sys-block/parted device-mapper
-dev-libs/boost static-libs
 net-fs/samba client
-sys-devel/llvm mcjit
+sys-devel/llvm clang mcjit
 app-portage/layman sync-plugin-portage subversion
 net-print/hplip scanner
