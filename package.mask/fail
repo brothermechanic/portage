@@ -14,7 +14,6 @@ media-video/mplayer2
 =media-libs/opencv-3.0.0
 =dev-qt/qtwebkit-4.10.4
 app-emulation/wine::gentoo
-dev-cpp/eigen:2
 =media-plugins/vapoursynth-ffmpegsource-9999
 media-video/mpv::gentoo
 =media-libs/gegl-9999
