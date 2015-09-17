@@ -19,5 +19,3 @@ PYTHON_TARGETS="python2_7 python3_4"
 PYTHON_COMPAT="python3_4"
 PYTHON_ABIS="2.7 3.4"
 CALLIGRA_FEATURES="krita karbon"
-
-EMERGE_DEFAULT_OPTS="-b --keep-going"
