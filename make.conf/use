@@ -5,6 +5,6 @@ pam consolekit ppp dhcp networkmanager modemmanager wifi network laptop \
 qt4 kde blender gphoto2 lensfun gimp truetype thumbnail \
 quicktime mjpeg tiff svg openexr \
 ffmpeg fftw ffmpegsource frei0r vidstab imagemagick \
-mozilla nsplugin googledrive \
+mozilla nsplugin \
 grub2 uuid ntfs fat samba bluetooth fuse -gvfs \
 alsa gstreamer jack ladspa lv2 openal firmware"
