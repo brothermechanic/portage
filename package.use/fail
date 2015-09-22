@@ -20,8 +20,5 @@ net-misc/teamviewer -system-wine
 media-libs/opencv python_single_target_python3_4 -python_single_target_python2_7
 net-firewall/iptables pcap
 dev-libs/efl opengl
-<<<<<<< HEAD
 dev-lang/mono minimal
-=======
 app-crypt/pinentry -qt4
->>>>>>> aafab527a77c2b8bd7ee55cb46fda5405523bc4d
