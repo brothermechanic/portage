@@ -1,2 +1,4 @@
 dev-util/nvidia-cuda-toolkit::gentoo
 sys-kernel/gentoo-sources
+>=sys-devel/llvm-3.6
+>=sys-devel/clang-3.6
