@@ -22,3 +22,5 @@ net-firewall/iptables pcap
 dev-libs/efl opengl
 dev-lang/mono minimal
 app-crypt/pinentry -qt4
+sys-apps/hwloc -gl
+sci-libs/vtk -video_cards_nvidia
