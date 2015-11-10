@@ -19,7 +19,6 @@ media-video/mpv::gentoo
 =media-libs/gegl-9999
 x11-libs/ganv
 media-sound/patchage::bar
-=dev-lang/python-3.5*
 =app-misc/ca-certificates-20150426.3.20-r1
 =media-libs/vapoursynth-9999
 =www-client/google-chrome-46.0.2490.71_p1
