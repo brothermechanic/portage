@@ -9,3 +9,4 @@ media-libs/openimageio python
 media-libs/opencolorio python
 media-gfx/ufraw gtk
 app-office/calligra colorio gsl
+media-libs/vapoursynth python_single_target_python3_5
