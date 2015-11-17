@@ -6,4 +6,4 @@ sys-block/parted device-mapper
 net-fs/samba client
 sys-devel/llvm clang mcjit
 app-portage/layman sync-plugin-portage subversion
-net-print/hplip scanner
+net-print/hplip scanner snmp
