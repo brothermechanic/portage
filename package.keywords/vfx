@@ -8,3 +8,7 @@ media-libs/ilmbase **
 media-video/mpv **
 media-gfx/ngplant **
 sci-geosciences/googleearth **
+media-libs/babl **
+media-libs/gegl **
+media-gfx/gimp **
+media-gfx/darktable **

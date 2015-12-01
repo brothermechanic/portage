@@ -2,3 +2,6 @@ media-gfx/blender
 media-libs/openexr
 media-libs/ilmbase
 sci-geosciences/googleearth
+media-libs/babl
+media-libs/gegl
+media-gfx/gimp

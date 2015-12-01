@@ -16,7 +16,6 @@ media-video/mplayer2
 app-emulation/wine::gentoo
 =media-plugins/vapoursynth-ffmpegsource-9999
 media-video/mpv::gentoo
-=media-libs/gegl-9999
 x11-libs/ganv
 media-sound/patchage::bar
 =app-misc/ca-certificates-20150426.3.20-r1
