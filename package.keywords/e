@@ -3,3 +3,5 @@ x11-plugins/entrance **
 media-gfx/ephoto **
 media-sound/empc **
 app-editors/ecrire **
+media-libs/elementary **
+dev-libs/efl **

@@ -1,2 +1,2 @@
-x11-wm/enlightenment ukit pn-utils
+x11-wm/enlightenment ukit pn-utils enlightenment_modules_wl-screenshot
 dev-libs/efl -opengl -gles sdl
