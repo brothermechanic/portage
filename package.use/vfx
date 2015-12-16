@@ -1,5 +1,5 @@
 sci-libs/hdf5 -threads
-media-gfx/blender contrib collada -osl alembic -player game-engine freestyle nls linguas_en linguas_ru oceansim opensubdiv
+media-gfx/blender contrib collada -osl -alembic -player game-engine freestyle nls linguas_en linguas_ru oceansim opensubdiv
 media-gfx/hugin sift lapack
 media-gfx/imagemagick corefonts fontconfig -opencl hdri
 media-libs/mlt -kde melt kdenlive
