@@ -4,3 +4,7 @@ sys-kernel/gentoo-sources
 =dev-lang/python-3.3*
 =dev-lang/python-3.2*
 =dev-lang/python-3.1*
+=sys-devel/llvm-3.7*
+=sys-devel/clang-3.7*
+=media-libs/mesa-11*
+=dev-libs/libclc-0.2*
