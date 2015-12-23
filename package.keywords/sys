@@ -6,3 +6,5 @@
 <sys-auth/consolekit-9999 **
 net-print/hplip-plugin **
 net-print/hplip **
+app-misc/ca-certificates -~amd64
+dev-libs/openssl -~amd64

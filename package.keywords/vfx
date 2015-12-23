@@ -4,7 +4,6 @@ media-gfx/v3d **
 media-video/smplayer **
 media-libs/openexr **
 media-libs/ilmbase **
-<media-video/mpv-9999 **
 media-video/mpv **
 media-gfx/ngplant **
 sci-geosciences/googleearth **
