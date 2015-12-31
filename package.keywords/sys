@@ -1,10 +1,4 @@
 =dev-libs/boost-1.58 **
 =dev-util/boost-build-1.58 **
-=sys-devel/gcc-5* **
-=sys-libs/glibc-2.22* **
-<x11-misc/sddm-9999 **
-<sys-auth/consolekit-9999 **
 net-print/hplip-plugin **
 net-print/hplip **
-app-misc/ca-certificates -~amd64
-dev-libs/openssl -~amd64

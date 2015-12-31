@@ -9,13 +9,10 @@ sys-apps/systemd
 media-video/mplayer
 media-video/mplayer2
 >=media-libs/vigra-1.10
-=dev-libs/openssl-1.0.2*
 =media-libs/jpeg-9*
-=media-libs/opencv-3.0.0
 =dev-qt/qtwebkit-4.10.4
 =media-plugins/vapoursynth-ffmpegsource-9999
 media-video/mpv::gentoo
 x11-libs/ganv
 media-sound/patchage::bar
-=app-misc/ca-certificates-20150426.3.20-r1
 =media-libs/vapoursynth-9999
