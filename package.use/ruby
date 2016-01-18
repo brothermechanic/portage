@@ -1,2 +1,2 @@
-dev-ruby/* ruby_targets_ruby22
-virtual/rubygems  ruby_targets_ruby22
+dev-ruby/* ruby_targets_ruby23
+virtual/rubygems  ruby_targets_ruby23
