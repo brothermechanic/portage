@@ -5,5 +5,4 @@ sys-auth/consolekit
 app-crypt/pinentry
 net-print/hplip-plugin
 net-print/hplip
-app-emulation/wine
 dev-lang/python:3.5
