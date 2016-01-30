@@ -17,3 +17,6 @@ x11-libs/ganv
 media-sound/patchage::bar
 =media-libs/vapoursynth-9999
 =dev-libs/vc-1.1.0
+=x11-base/xorg-server-1.18*
+=x11-base/xorg-drivers-1.18*
+=x11-drivers/xf86-input-evdev-2.10*
