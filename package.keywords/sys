@@ -2,3 +2,6 @@
 =dev-util/boost-build-1.58 **
 net-print/hplip-plugin **
 net-print/hplip **
+x11-base/xorg-server -~amd64
+x11-base/xorg-drivers -~amd64
+x11-drivers/xf86-input-evdev -~amd64
