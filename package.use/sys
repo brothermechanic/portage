@@ -7,3 +7,4 @@ net-fs/samba client
 sys-devel/llvm clang mcjit
 app-portage/layman sync-plugin-portage subversion
 net-print/hplip scanner snmp
+x11-base/xorg-server kdrive
