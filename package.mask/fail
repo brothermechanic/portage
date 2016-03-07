@@ -17,3 +17,4 @@ x11-libs/ganv
 media-sound/patchage::bar
 =media-libs/vapoursynth-9999
 =dev-libs/vc-1.1.0
+=net-p2p/transmission-2.90*
