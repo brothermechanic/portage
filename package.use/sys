@@ -9,3 +9,4 @@ app-portage/layman sync-plugin-portage subversion
 net-print/hplip scanner snmp
 x11-base/xorg-server kdrive
 net-misc/remmina freerdp
+net-misc/openssh -hpn
