@@ -13,5 +13,5 @@ net-print/cups-filters zeroconf
 net-dns/avahi mdnsresponder-compat
 app-admin/conky hddtemp -imlib
 www-plugins/chrome-binary-plugins -widevine
-media-video/ffmpeg opus vpx
+media-video/ffmpeg opus vpx theora
 www-client/uget aria2
