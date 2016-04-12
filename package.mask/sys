@@ -1,8 +1,5 @@
 dev-util/nvidia-cuda-toolkit::gentoo
-=dev-lang/python-3.4*
-=dev-lang/python-3.3*
-=dev-lang/python-3.2*
-=dev-lang/python-3.1*
+<dev-lang/python-3.5
 >=sys-devel/llvm-3.6
 >=sys-devel/clang-3.6
 =dev-libs/libclc-0.2*
