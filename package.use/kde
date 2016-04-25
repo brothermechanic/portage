@@ -1,6 +1,10 @@
 dev-vcs/subversion -kde
 app-arch/p7zip -kde
 kde-plasma/plasma-meta gtk
+<<<<<<< HEAD
 kde-plasma/plasma-desktop gtk2 gtk3 legacy-systray touchpad 
+=======
+kde-plasma/plasma-desktop gtk2 gtk3 legacy-systray touchpad
+>>>>>>> 71d7a3b55591614e154e49ec86cae960807e09f8
 kde-plasma/breeze -qt4
 media-gfx/darktable -kde
