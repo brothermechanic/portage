@@ -20,3 +20,4 @@ media-sound/patchage::bar
 =net-p2p/transmission-2.90*
 >=media-libs/mesa-11.2
 =dev-util/cmake-3.5*
+=x11-drivers/nvidia-drivers-364.19

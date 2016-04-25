@@ -1,4 +1,3 @@
-=sys-kernel/gentoo-sources-4.3*
 sys-auth/consolekit
 app-crypt/pinentry
 net-print/hplip-plugin

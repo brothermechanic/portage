@@ -1,2 +1,5 @@
 gnome-base/*
-kde-base/*
+#kde-base/*
+kde-plasma/*
+kde-apps/*:5
+dev-qt/*:5/5.6

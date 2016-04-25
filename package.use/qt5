@@ -1,0 +1,6 @@
+dev-util/cmake -qt4 -qt5
+net-p2p/transmission -qt4 qt5
+net-wireless/wpa_supplicant -qt4 -qt5
+media-video/guvcview -qt4 -qt5
+media-video/smplayer -qt4 qt5
+
