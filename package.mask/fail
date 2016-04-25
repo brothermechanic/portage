@@ -19,3 +19,4 @@ media-sound/patchage::bar
 =dev-libs/vc-1.1.0
 =net-p2p/transmission-2.90*
 >=media-libs/mesa-11.2
+=dev-util/cmake-3.5*

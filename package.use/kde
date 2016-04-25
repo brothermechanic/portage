@@ -4,3 +4,5 @@ kde-plasma/plasma-meta gtk
 kde-plasma/plasma-desktop gtk2 gtk3 legacy-systray touchpad -qt4
 kde-plasma/breeze -qt4
 media-gfx/darktable -kde
+#media-libs/gst-plugins-bad -opengl -egl
+media-libs/mesa wayland

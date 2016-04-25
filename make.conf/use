@@ -1,8 +1,8 @@
-USE="-3dnow -doc -gtk3 -gtk -pulseaudio -lash -ruby -quvi -vlc -libav -semantic-desktop \
+USE="-3dnow -doc -gtk3 -gtk -pulseaudio -lash -ruby -quvi -vlc -libav -semantic-desktop -wayland \
 avx2 avx boost openmp smp tbb threads lapack vc cmake icu \
 cg opencl uvm nvidia cuda sm_30 sm_35 vdpau gpu xv xinerama xcomposite opencv python \
 pam consolekit ppp dhcp networkmanager modemmanager wifi network laptop \
-qt5 kde plasma blender gphoto2 lensfun gimp truetype thumbnail \
+qt5 kde plasma blender gimp gphoto2 lensfun truetype thumbnail \
 quicktime mjpeg tiff svg openexr \
 ffmpeg fftw ffmpegsource frei0r vidstab imagemagick \
 mozilla nsplugin \
