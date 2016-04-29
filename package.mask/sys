@@ -1,6 +1,6 @@
 dev-util/nvidia-cuda-toolkit::gentoo
 <dev-lang/python-3.5
->=sys-devel/llvm-3.6
->=sys-devel/clang-3.6
+#>=sys-devel/llvm-3.6
+#>=sys-devel/clang-3.6
 =dev-libs/libclc-0.2*
 =app-emulation/wine-1.9*
