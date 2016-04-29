@@ -1,3 +1,4 @@
 sys-libs/glibc -~amd64
+sys-devel/gcc -~amd64
 net-print/hplip-plugin **
 net-print/hplip **
