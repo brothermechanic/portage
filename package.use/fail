@@ -16,7 +16,6 @@ media-libs/phonon designer
 media-video/ffmpeg -samba
 app-crypt/heimdal -threads
 app-text/tesseract -opencl
-net-misc/teamviewer -system-wine
 media-libs/opencv python_single_target_python3_5 -python_single_target_python2_7
 net-firewall/iptables pcap
 dev-libs/efl opengl
