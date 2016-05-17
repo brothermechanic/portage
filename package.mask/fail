@@ -21,3 +21,4 @@ media-sound/patchage::bar
 >=media-libs/mesa-11.2
 =dev-util/cmake-3.5*
 =x11-drivers/nvidia-drivers-364.19
+=media-libs/zimg-9999
