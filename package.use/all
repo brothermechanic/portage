@@ -16,3 +16,4 @@ www-plugins/chrome-binary-plugins -widevine
 media-video/ffmpeg opus vpx
 www-client/uget aria2
 www-client/chromium system-ffmpeg
+net-misc/teamviewer -system-wine
