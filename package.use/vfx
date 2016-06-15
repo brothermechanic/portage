@@ -12,3 +12,5 @@ app-office/calligra colorio gsl
 media-libs/vapoursynth python_single_target_python3_5
 media-libs/opencv contrib
 x11-libs/wxGTK webkit
+#natron deps
+x11-libs/cairo static-libs
