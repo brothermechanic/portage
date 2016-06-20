@@ -1,4 +1,5 @@
-sys-libs/glibc -~amd64
+sys-libs/* -~amd64
+sys-devel/* -~amd64
 net-print/hplip-plugin **
 net-print/hplip **
 dev-python/PyQt4 -~amd64
