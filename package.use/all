@@ -1,4 +1,5 @@
-kde-base/okular djvu
+# move kde-base/okular kde-apps/okular
+kde-apps/okular djvu
 kde-base/systemsettings gtk
 app-emulation/wine -gstreamer -cups -openal -opencl -gphoto2
 media-video/mpv libass png X libmpv
