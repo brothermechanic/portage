@@ -4,4 +4,4 @@ dev-util/nvidia-cuda-toolkit::gentoo
 #>=sys-devel/clang-3.6
 =dev-libs/libclc-0.2*
 =app-emulation/wine-1.9*
-=sys-devel/gcc-5.4*
+#=sys-devel/gcc-5.4*
