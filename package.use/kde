@@ -1,8 +1,8 @@
 dev-vcs/subversion -kde
 app-arch/p7zip -kde
 kde-plasma/plasma-meta gtk
-#kde-plasma/plasma-desktop  gtk3 touchpad
 kde-plasma/breeze -qt4
 media-gfx/darktable -kde
 media-libs/mesa wayland
 app-office/libreoffice -kde
+kde-plasma/plasma-desktop gtk2 gtk3 legacy-systray
