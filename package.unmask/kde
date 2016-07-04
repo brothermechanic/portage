@@ -4,3 +4,4 @@ gnome-base/librsvg
 gnome-base/gsettings-desktop-schemas
 gnome-base/dconf
 gnome-base/libgnomecanvas
+kde-apps/okular
