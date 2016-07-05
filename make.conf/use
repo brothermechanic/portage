@@ -7,4 +7,4 @@ quicktime mjpeg tiff svg openexr \
 ffmpeg fftw ffmpegsource frei0r vidstab imagemagick \
 mozilla nsplugin \
 grub2 uuid ntfs fat samba fuse -gvfs \
-alsa gstreamer jack ladspa lv2 openal firmware"
+alsa gstreamer ladspa lv2 openal firmware"
