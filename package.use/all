@@ -18,3 +18,4 @@ media-video/ffmpeg opus vpx
 www-client/uget aria2
 www-client/chromium system-ffmpeg
 net-misc/teamviewer -system-wine
+media-video/ffmpeg openssl gnutls
