@@ -9,3 +9,4 @@ kde-plasma/plasma-desktop gtk2 gtk3 legacy-systray
 dev-libs/libdbusmenu-qt qt4
 dev-qt/designer -kde -phonon
 dev-python/PyQt4 -kde -phonon -declarative -svg
+app-emulation/winetricks -kde

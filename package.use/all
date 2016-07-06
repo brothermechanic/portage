@@ -19,3 +19,4 @@ www-client/uget aria2
 www-client/chromium system-ffmpeg
 net-misc/teamviewer -system-wine
 media-video/ffmpeg openssl gnutls
+net-fs/samba winbind
