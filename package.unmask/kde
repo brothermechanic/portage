@@ -5,3 +5,4 @@ gnome-base/gsettings-desktop-schemas
 gnome-base/dconf
 gnome-base/libgnomecanvas
 =kde-apps/okular-5*
+=kde-apps/kdialog-5*
