@@ -4,7 +4,7 @@ cg opencl uvm nvidia cuda sm_30 sm_35 vdpau gpu xv xinerama xcomposite opencv py
 pam consolekit ppp dhcp networkmanager modemmanager wifi network laptop \
 plasma qt5 blender gimp gphoto2 lensfun truetype thumbnail nls color-management share \
 quicktime mjpeg tiff svg openexr \
-ffmpeg fftw ffmpegsource frei0r vidstab imagemagick \
+ffmpeg fftw ffmpegsource frei0r vidstab imagemagick gegl \
 mozilla nsplugin \
 grub2 uuid ntfs fat samba fuse -gvfs \
 alsa gstreamer ladspa lv2 openal firmware"
