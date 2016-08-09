@@ -11,3 +11,4 @@ x11-base/xorg-server kdrive
 net-misc/remmina freerdp
 net-misc/openssh -hpn
 media-libs/mesa -opencl
+x11-base/xorg-server xvfb
