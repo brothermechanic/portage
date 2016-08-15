@@ -1,12 +1,3 @@
-dev-vcs/subversion -kde
-app-arch/p7zip -kde
 kde-plasma/plasma-meta gtk
-kde-plasma/breeze -qt4
-media-gfx/darktable -kde
 media-libs/mesa wayland
-app-office/libreoffice -kde
 kde-plasma/plasma-desktop gtk2 gtk3 legacy-systray
-dev-libs/libdbusmenu-qt qt4
-dev-qt/designer -kde -phonon
-dev-python/PyQt4 -kde -phonon
-app-emulation/winetricks -kde
