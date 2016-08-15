@@ -1,3 +1,7 @@
 kde-plasma/plasma-meta gtk
 media-libs/mesa wayland
 kde-plasma/plasma-desktop gtk2 gtk3 legacy-systray
+media-gfx/darktable -kde
+app-office/libreoffice -kde
+dev-python/PyQt4 -kde -phonon
+dev-vcs/subversion -kde

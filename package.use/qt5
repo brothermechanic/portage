@@ -10,3 +10,5 @@ net-wireless/wpa_supplicant -qt4 -qt5
 media-video/guvcview -qt4 -qt5
 media-video/smplayer -qt4 qt5
 dev-libs/libdbusmenu-qt qt4
+media-libs/phonon-gstreamer -qt4
+media-libs/phonon -qt4
