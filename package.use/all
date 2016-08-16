@@ -14,7 +14,8 @@ app-admin/conky hddtemp -imlib
 www-plugins/chrome-binary-plugins -widevine
 media-video/ffmpeg opus vpx
 www-client/uget aria2
-www-client/chromium system-ffmpeg
+www-client/chromium -gn system-ffmpeg
 net-misc/teamviewer -system-wine
 media-video/ffmpeg openssl gnutls
 net-fs/samba winbind
+media-libs/libvpx svc
