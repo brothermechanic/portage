@@ -1,3 +1,4 @@
 app-laptop/asus-keyboard-backlight
 net-misc/networkmanager
-=www-client/chromium-52.0.2743.49
+net-misc/nut-monitor
+dev-python/pynut

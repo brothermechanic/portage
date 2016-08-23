@@ -22,6 +22,5 @@ media-sound/patchage::bar
 =dev-util/cmake-3.5*
 =x11-drivers/nvidia-drivers-364.19
 =media-libs/zimg-9999
-www-client/chromium
 =dev-vcs/mercurial-3.9*
 =x11-drivers/nvidia-drivers-370.23

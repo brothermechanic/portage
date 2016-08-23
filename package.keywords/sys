@@ -1,5 +1,3 @@
-#sys-libs/glibc -~amd64
 net-print/hplip-plugin **
 net-print/hplip **
-dev-python/PyQt4 -~amd64
 dev-libs/boost-numpy **
