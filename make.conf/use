@@ -1,4 +1,4 @@
-USE="-3dnow -doc -gtk3 -gtk -pulseaudio -lash -ruby -quvi -vlc -libav -semantic-desktop -handbook -qt4 -webkit -wayland \
+USE="-3dnow -doc -gtk -gtk3 -pulseaudio -lash -ruby -quvi -vlc -libav -semantic-desktop -handbook -qt4 -webkit -wayland -introspection \
 avx boost openmp smp tbb threads lapack vc cmake icu \
 cg opencl uvm nvidia cuda sm_30 sm_35 vdpau gpu xv xinerama xcomposite opencv python \
 pam consolekit ppp dhcp networkmanager modemmanager wifi network laptop \
