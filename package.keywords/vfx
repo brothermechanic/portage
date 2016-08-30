@@ -12,3 +12,6 @@ media-libs/libmv **
 media-libs/openMVG **
 media-gfx/natron **
 media-libs/alembic **
+media-gfx/gimp **
+media-libs/gegl **
+media-libs/babl **
