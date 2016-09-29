@@ -2,7 +2,6 @@ kde-apps/okular djvu
 app-emulation/wine -gstreamer -cups -openal -opencl -gphoto2
 media-video/mpv libass png X libmpv
 app-emulation/virtualbox extensions
-media-sound/clementine lastfm
 net-print/gutenprint gtk
 net-libs/libmicrohttpd messages
 dev-libs/libdbusmenu gtk gtk3

@@ -15,3 +15,7 @@ x11-base/xorg-server xvfb
 #quemu
 media-libs/mesa gles2
 app-emulation/qemu gtk spice
+#vmware
+app-crypt/pinentry gnome-keyring
+app-crypt/gcr gtk
+
