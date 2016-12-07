@@ -19,6 +19,7 @@ media-sound/patchage::bar
 =dev-libs/vc-1.1.0
 =net-p2p/transmission-2.90*
 =dev-util/cmake-3.5*
-=x11-drivers/nvidia-drivers-364.19
+=x11-drivers/nvidia-drivers-370*
 =media-libs/zimg-9999
 =dev-vcs/mercurial-3.9*
+x11-drivers/ati-drivers

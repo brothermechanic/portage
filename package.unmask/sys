@@ -1,9 +1,5 @@
-sys-auth/consolekit
 app-crypt/pinentry
 net-print/hplip-plugin
 net-print/hplip
 dev-lang/python:3.5
 dev-lang/python:2.7
-#vmware
-gnome-base/gnome-keyring
-gnome-base/libgnome-keyring

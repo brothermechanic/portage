@@ -1,3 +1,4 @@
 gnome-base/*
-kde-base/*
+#kde-base/*
 kde-apps/okular
+=kde-frameworks/krunner-9999

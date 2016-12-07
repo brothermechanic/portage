@@ -25,3 +25,5 @@ sys-apps/hwloc -gl
 sci-libs/vtk -video_cards_nvidia
 media-libs/lensfun python_single_target_python3_5
 media-gfx/siftgpu -cuda
+media-libs/opensubdiv -cuda
+sys-apps/busybox -static
