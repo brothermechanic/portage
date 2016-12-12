@@ -10,7 +10,8 @@ media-libs/opencolorio python
 media-gfx/ufraw gtk
 app-office/calligra colorio gsl
 media-libs/vapoursynth python_single_target_python3_5
-media-libs/opencv contrib
+media-libs/opencv contrib -cuda
 x11-libs/wxGTK webkit
 #natron deps
 x11-libs/cairo static-libs
+media-plugins/frei0r-plugins -facedetect
