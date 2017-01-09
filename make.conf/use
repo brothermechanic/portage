@@ -1,6 +1,6 @@
 USE="-3dnow -doc -gtk -gtk3 -pulseaudio -lash -ruby -quvi -vlc -libav -semantic-desktop -handbook -qt4 -webkit -wayland -opencv \
 avx boost openmp smp tbb threads lapack vc cmake icu \
-cg opencl uvm nvidia cuda sm_30 sm_35 vdpau gpu xv xinerama xcomposite python \
+cg opencl uvm nvidia cuda sm_30 sm_35 vdpau gpu xv nvenc xinerama xcomposite python \
 pam consolekit ppp dhcp networkmanager modemmanager wifi network laptop \
 plasma qt5 blender gimp gphoto2 lensfun truetype thumbnail nls color-management share \
 quicktime mjpeg tiff svg openexr \
