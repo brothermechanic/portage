@@ -1,10 +1,10 @@
-USE="-3dnow -doc -gtk -gtk3 -pulseaudio -lash -ruby -quvi -vlc -libav -semantic-desktop -handbook -qt4 -webkit -wayland -opencv \
-avx boost openmp smp tbb threads lapack vc cmake icu \
-cg opencl uvm nvidia cuda sm_30 sm_35 vdpau gpu xv nvenc xinerama xcomposite python \
-pam consolekit ppp dhcp networkmanager modemmanager wifi network laptop \
-plasma qt5 blender gimp gphoto2 lensfun truetype thumbnail nls color-management share \
-quicktime mjpeg tiff svg openexr \
-ffmpeg fftw ffmpegsource frei0r vidstab imagemagick gegl \
-mozilla nsplugin \
-grub2 uuid ntfs fat samba fuse -gvfs \
-alsa gstreamer ladspa lv2 openal firmware"
+USE="-ppp -gtk -cdda -cdr -dvd -webengine -webkit -wxwidgets \
+-semantic-desktop -activities -introspection -vala -theora -vlc \
+jemalloc openmp c++11 cxx python graphite threads vaapi \
+pipewire screencast v4l \
+wayland gles2 nls \
+thunderbolt \
+networkmanager bluetooth samba \
+zstd \
+blender openvdb abi11-compat freecad numpy gimp raw openexr ttf webp \
+opencl optix cuda cuda_targets_sm_61 nanovdb nvenc"

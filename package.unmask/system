@@ -1,0 +1,16 @@
+=sys-devel/clang-15*
+=sys-devel/llvm-15*
+=sys-devel/lld-15*
+=sys-devel/clang-runtime-15*
+=sys-libs/compiler-rt-sanitizers-15*
+=sys-libs/compiler-rt-15*
+=sys-devel/llvm-common-15*
+=sys-devel/llvmgold-15*
+=sys-devel/clang-common-15*
+=dev-util/spirv-llvm-translator-15*
+=sys-devel/clang-toolchain-symlinks-15*
+=sys-devel/lld-toolchain-symlinks-15*
+
+=dev-lang/python-3.7*
+=dev-lang/python-3.11*
+=sys-devel/gcc-12*

@@ -1,0 +1,24 @@
+kde-plasma/powerdevil		brightness-control
+kde-plasma/kde-cli-tools	kdesu
+net-misc/knemo			wifi
+media-libs/portaudio            jack
+kde-apps/okular			djvu
+app-misc/neofetch		-X
+app-arch/p7zip			kde wxwidgets rar
+net-im/telegram-desktop		screencast
+media-libs/tg_owt		screencast
+net-misc/remmina		rdp zeroconf ssh
+kde-plasma/plasma-nm		openconnect
+gnome-extra/nm-applet		appindicator
+#net-misc/networkmanager	dhclient
+media-video/mediainfo           wxwidgets
+app-emacs/telega		tray
+net-libs/nodejs			inspector
+kde-plasma/plasma-firewall	firewalld
+media-sound/deadbeef		cover notify
+app-misc/nnn			restorepreview gitstatus nerdfonts -icons qsort
+media-fonts/nerd-fonts		nerdfontssymbolsonly hack firacode
+net-misc/networkmanager		-gtk-doc
+media-libs/qhull		static-libs
+net-fs/samba			winbind
+media-libs/libsdl2		haptic

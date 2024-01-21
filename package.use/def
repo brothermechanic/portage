@@ -1,0 +1,13 @@
+virtual/rust                            rustfmt
+dev-lang/rust-bin                       rustfmt
+sys-libs/ncurses                        -gpm
+sys-apps/util-linux			-udev
+media-libs/freetype			brotli
+media-video/ffmpeg                      theora opus vpx
+sys-boot/grub				mount
+dev-python/QtPy				printsupport
+media-libs/tiff                         lzma zstd
+sci-libs/cgnslib			hdf5
+media-libs/libvpx                       postproc
+dev-lang/rust				rustfmt
+dev-libs/libpcre2			pcre32

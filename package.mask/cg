@@ -1,0 +1,8 @@
+media-gfx/blender::gentoo
+media-gfx/openvdb::gentoo
+media-libs/opensubdiv::gentoo
+media-libs/openimageio::gentoo
+media-libs/opencolorio::gentoo
+media-libs/oidn::gentoo
+media-libs/openpgl::gentoo
+media-libs/osl::gentoo

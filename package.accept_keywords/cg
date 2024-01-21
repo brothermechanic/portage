@@ -1,0 +1,6 @@
+media-gfx/blender **
+media-blender/addons_contrib **
+media-blender/addons **
+#media-gfx/freecad **
+media-gfx/makehuman **
+dev-python/cadquery **

@@ -1,29 +1,9 @@
-gnome-base/gvfs -http
-sys-libs/zlib minizip
-media-plugins/frei0r-plugins -facedetect
-net-libs/libproxy -webkit
-net-libs/glib-networking -libproxy
-net-libs/neon -libproxy
-sys-apps/hwloc -opencl -cuda
-sci-libs/levmar -plasma
-media-libs/harfbuzz -graphite
-dev-libs/libxml2 icu
-sys-auth/polkit introspection
-app-crypt/heimdal -ssl
-media-libs/gexiv2 introspection
-dev-libs/elfutils static-libs
-media-libs/phonon designer
-media-video/ffmpeg -samba
-app-crypt/heimdal -threads
-app-text/tesseract -opencl
-media-libs/opencv python_single_target_python3_5 -python_single_target_python2_7
-net-firewall/iptables pcap
-dev-libs/efl opengl
-dev-lang/mono minimal
-app-crypt/pinentry -qt4
-sys-apps/hwloc -gl
-sci-libs/vtk -video_cards_nvidia
-media-libs/lensfun python_single_target_python3_5
-media-gfx/siftgpu -cuda
-media-libs/opensubdiv -cuda
-sys-apps/busybox -static
+dev-lang/python			-bluetooth
+sys-apps/i2c-tools		-python
+media-libs/gexiv2		-python
+media-sound/mpg123		-pulseaudio -sdl
+sci-libs/vtk			-cuda
+media-video/ffmpeg		-opencl
+sci-libs/cholmod		-cuda
+sci-libs/hdf5			-threads
+media-libs/libsndfile		minimal

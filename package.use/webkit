@@ -1,7 +1,0 @@
-#media-gfx/gimp -webkit
-#net-libs/libproxy -webkit
-#x11-libs/wxGTK -webkit
-#dev-python/PyQt4 -webkit
-#dev-qt/designer -webkit
-#dev-qt/qtdeclarative -webkit
-#kde-plasma/libksysguard -webkit

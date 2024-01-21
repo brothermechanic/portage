@@ -1,0 +1,10 @@
+sys-libs/glibc -~amd64
+sys-devel/gcc -~amd64
+sys-devel/binutils -~amd64
+sys-devel/gcc-config -~amd64
+sys-devel/binutils-config -~amd64
+#sys-kernel/linux-headers -~amd64
+#sys-kernel/gentoo-kernel -~amd64
+dev-util/boost-build **
+dev-libs/boost **
+sys-devel/autoconf -~amd64

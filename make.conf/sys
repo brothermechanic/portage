@@ -1,27 +1,33 @@
-#FEATURES="collision-protect buildsyspkg parallel-fetch userfetch metadata-transfer preserve-libs"
-FEATURES="parallel-fetch userfetch metadata-transfer preserve-libs"
-
+#------------------------------------------------------------------------------
+ABI_X86="64 32"
+#------------------------------------------------------------------------------
+GRUB_PLATFORMS="efi-64"
+#------------------------------------------------------------------------------
 ACCEPT_KEYWORDS="~amd64"
 ACCEPT_LICENSE="*"
-ABI_X86="64 32"
-
+#------------------------------------------------------------------------------
+USE_PYTHON="3.11"
+PYTHON_SINGLE_TARGET="python3_11"
+PYTHON_TARGETS="python3_11"
+#------------------------------------------------------------------------------
+OPENVDB_ABI="11"
+#------------------------------------------------------------------------------
+PORTDIR="/var/db/repos/gentoo"
+DISTDIR="/var/cache/distfiles"
+PKGDIR="/var/cache/binpkgs"
+#------------------------------------------------------------------------------
+#CG_BLENDER_SCRIPTS_DIR="/usr/share/blender/scripts"
+#------------------------------------------------------------------------------
 VIDEO_CARDS="nvidia"
+LLVM_TARGETS="NVPTX"
 ALSA_CARDS="hda-intel"
-SUPPORT_ALSA=1
-CAMERAS="canon ptp2"
-INPUT_DEVICES="evdev synaptics"
-SANE_BACKENDS="hp"
-LINGUAS="ru en ru_RU"
-LANGUAGE="ru_RU.UTF-8"
+INPUT_DEVICES="evdev synaptics libinput wacom"
+SANE_BACKENDS="canon pixma"
+#------------------------------------------------------------------------------
 L10N="ru en"
-GRUB_PLATFORMS="efi-64"
-USE_PYTHON="2.7 3.5"
-PYTHON_TARGETS="python2_7 python3_5"
-PYTHON_SINGLE_TARGET="python3_5"
-PYTHON_COMPAT="python3_5"
-PYTHON_ABIS="2.7 3.5"
-CALLIGRA_FEATURES="krita"
-VAPOURSYNTH_PLUGINS="imagemagick"
-RUBY_TARGETS="ruby23"
-USE_RUBY="2.3"
-XFCE_PLUGINS="brightness clock trash"
+LINGUAS="ru ru_RU en en_US"
+#------------------------------------------------------------------------------
+RUBY_TARGETS="ruby33"
+#------------------------------------------------------------------------------
+QEMU_USER_TARGETS="x86_64"
+#------------------------------------------------------------------------------

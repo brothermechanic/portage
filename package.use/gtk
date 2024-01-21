@@ -1,0 +1,17 @@
+kde-plasma/systemsettings	gtk
+kde-plasma/plasma-meta		gtk
+media-gfx/sane-frontends	gimp gtk
+media-gfx/xsane			gimp gtk
+dev-libs/libdbusmenu		gtk3
+net-dns/avahi			gtk
+media-libs/harfbuzz             introspection
+x11-libs/pango                  introspection
+x11-libs/gdk-pixbuf             introspection
+sys-auth/polkit                 introspection
+x11-libs/gtk+                   introspection
+net-print/gutenprint            gtk gimp
+games-engines/scummvm           gtk
+app-crypt/gcr                   gtk
+x11-libs/libfm			gtk
+dev-libs/atk			introspection
+app-accessibility/at-spi2-core	introspection

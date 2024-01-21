@@ -1,0 +1,3 @@
+# echo "*/* $(cpuid2cpuflags)" > /etc/portage/package.use/00cpu-flags
+
+*/* CPU_FLAGS_X86: avx2

@@ -1,0 +1,4 @@
+dev-libs/boost context
+dev-libs/boehm-gc cxx
+virtual/libcrypt static-libs
+sys-libs/libxcrypt static-libs

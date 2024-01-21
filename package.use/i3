@@ -1,0 +1,5 @@
+gui-wm/sway			grimshot tray wallpapers
+gui-apps/swaybg			gdk-pixbuf
+gui-apps/waybar			experimental  mpd  network  sndio  tray  wifi
+x11-misc/redshift		appindicator
+app-misc/mc			-X

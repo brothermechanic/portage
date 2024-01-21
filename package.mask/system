@@ -1,0 +1,16 @@
+sys-devel/clang
+sys-devel/llvm
+sys-devel/lld
+sys-devel/clang-runtime
+sys-libs/compiler-rt-sanitizers
+sys-libs/compiler-rt
+sys-devel/llvm-common
+sys-devel/llvmgold
+sys-devel/clang-common
+dev-util/spirv-llvm-translator
+sys-devel/clang-toolchain-symlinks
+sys-devel/lld-toolchain-symlinks
+
+dev-lang/python
+sys-devel/gcc
+sys-kernel/gentoo-sources

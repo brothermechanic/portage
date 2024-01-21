@@ -1,9 +1,0 @@
-gnome-base/libglade
-gnome-base/gconf
-gnome-base/librsvg
-gnome-base/gsettings-desktop-schemas
-gnome-base/dconf
-gnome-base/libgnomecanvas
-=kde-apps/okular-5*
-kde-apps/kdialog
-dev-qt/*

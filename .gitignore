@@ -1,12 +1,10 @@
-LICENSE
-threads
-path
-bin
-make.profile
-postsync.d
-profile
-repo.postsync.d
-savedconfig
-ttt
-make.conf.catalyst
-layman.conf
+# Emacs backups
+~*
+*~
+*#
+.#*
+\#*\#
+.\#*
+.projectile
+flycheck_*.el
+*_flymake.*

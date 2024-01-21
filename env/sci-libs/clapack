@@ -1,8 +1,0 @@
-src_configure() {
-	rm INCLUDE/f2c.h
-        filter-flags -ftree-vectorize
-        # causes an internal compiler error with gcc-4.6.2
-
-        local mycmakeargs=( $(cmake-utils_use_enable test TESTS) )
-        cmake-utils_src_configure
-}
