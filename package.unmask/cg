@@ -13,6 +13,7 @@ media-libs/oidn::cg
 media-libs/osl::cg
 media-libs/openusd::cg
 dev-libs/jemalloc-usd::cg
+media-libs/openexr::cg
 
 dev-python/geomdl
 dev-python/PyMCubes

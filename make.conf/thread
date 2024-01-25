@@ -1,9 +1,11 @@
-MAKEOPTS="-j9"
-EMERGE_DEFAULT_OPTS="${EMERGE_DEFAULT_OPTS} --keep-going --load-average=1 --jobs 4 --backtrack=30"
+MAKEOPTS="-j17"
+#EMERGE_DEFAULT_OPTS="${EMERGE_DEFAULT_OPTS} --keep-going --load-average=1 --jobs 5 --backtrack=30"
+
+# build binary
+#EMERGE_DEFAULT_OPTS="${EMERGE_DEFAULT_OPTS} -b --binpkg-respect-use=n --usepkg-exclude 'sys-kernel/* virtual/* x11-drivers/*'"
+#PORTAGE_BINHOST="file:///var/cache/binpkgs"
 
 PORTAGE_NICENESS="-5"
 
-FEATURES="-collision-protect protect-owned"
-
-#EMERGE_DEFAULT_OPTS="${EMERGE_DEFAULT_OPTS} -b --binpkg-respect-use=n --usepkg-exclude 'sys-kernel/* virtual/* x11-drivers/*'"
-#PORTAGE_BINHOST="/var/cache/binpkgs"
+##FEATURES="-collision-protect protect-owned binpkg-request-signature"
+FEATURES="-collision-protect protect-owned parallel-fetch"

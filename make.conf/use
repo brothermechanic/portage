@@ -1,10 +1,8 @@
 USE="-ppp -gtk -cdda -cdr -dvd -webengine -webkit -wxwidgets \
 -semantic-desktop -activities -introspection -vala -theora -vlc \
-jemalloc openmp c++11 cxx python graphite threads vaapi \
-pipewire screencast v4l \
-wayland gles2 nls \
 thunderbolt \
-networkmanager bluetooth samba \
+jemalloc openmp c++11 cxx python graphite threads vaapi \
+pipewire screencast v4l wayland networkmanager bluetooth samba nls \
 zstd \
 blender openvdb abi11-compat freecad numpy gimp raw openexr ttf webp \
-opencl optix cuda cuda_targets_sm_61 nanovdb nvenc"
+gles2 opencl optix cuda cuda_targets_sm_86 nanovdb nvenc"

@@ -1,27 +1,27 @@
-media-gfx/blender           vulkan llvm -osl -wayland -dbus
-media-libs/draco            gltf
-app-arch/brotli             static-libs
-dev-cpp/glog                gflags
-media-libs/opensubdiv       tbb
-media-libs/openimageio      -opencv cxx17
-media-sound/lame            sndfile
-media-libs/freetype         harfbuzz
-media-libs/openimageio      color-management tools tbb
-media-libs/openpgl          tbb
-media-libs/embree           raymask
-media-libs/vulkan-loader    layers
-media-libs/openexr          threads
-media-libs/oidn             -rocm -amdgpu_targets_*
-media-libs/opencolorio      -opengl
-media-libs/openusd          monolithic
+media-gfx/blender		vulkan llvm -osl -wayland usd
+media-libs/draco                gltf
+app-arch/brotli			static-libs
+dev-cpp/glog			gflags
+media-libs/opensubdiv		tbb
+media-libs/openimageio          -opencv cxx17
+media-sound/lame		sndfile
+media-libs/freetype		harfbuzz
+media-libs/openimageio		color-management tools tbb
+media-libs/openpgl		tbb
+media-libs/embree		raymask
+media-libs/vulkan-loader	layers
+media-libs/openexr		threads
+media-libs/oidn			-rocm -amdgpu_targets_*
+media-libs/opencolorio		-opengl
+media-libs/openusd		monolithic openimageio draco embree color-management materialx -vulkan
 
-sci-libs/vtk                rendering boost vtkm
-sci-libs/opencascade        vtk json tbb
-sci-libs/gmsh               opencascade
-media-gfx/netgen            opencascade
-dev-python/pyside2          webengine
-media-gfx/freecad           netgen
-dev-python/numpy            lapack
+sci-libs/vtk                    rendering boost vtkm
+sci-libs/opencascade            vtk json tbb
+sci-libs/gmsh                   opencascade
+media-gfx/netgen                opencascade
+dev-python/pyside2              webengine		# freecad dep
+media-gfx/freecad               netgen
+dev-python/numpy		lapack			# sverchok dep
 
-media-gfx/imagemagick       hdri
-media-gfx/inkscape          cdr svg2 postscript
+media-gfx/imagemagick           hdri
+media-gfx/inkscape              cdr svg2 postscript
